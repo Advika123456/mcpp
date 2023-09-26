@@ -1,0 +1,17 @@
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/CMakeFiles/mcpp.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/CMakeFiles/test.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/CMakeFiles/edit_cache.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/CMakeFiles/rebuild_cache.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/CMakeFiles/list_install_components.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/CMakeFiles/install.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/CMakeFiles/install/local.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/CMakeFiles/install/strip.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/test/CMakeFiles/local_tests.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/test/CMakeFiles/test_suite.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/test/CMakeFiles/test.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/test/CMakeFiles/edit_cache.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/test/CMakeFiles/rebuild_cache.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/test/CMakeFiles/list_install_components.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/test/CMakeFiles/install.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/test/CMakeFiles/install/local.dir
+/home/adveekurrr/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-1-Advika123456/mcpp/test/CMakeFiles/install/strip.dir
